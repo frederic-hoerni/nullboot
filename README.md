@@ -10,11 +10,11 @@ Use cases
 
 Usage:
 ```
-1. nullbootctl [install] [OPTIONS]
+1. nullbootctl install [OPTIONS]
 2. nullbootctl recovery-key [OPTIONS]
 ```
 
-### nullbootctl [install]
+### nullbootctl install
 
 Install shim and UKI in EFI System Partition.
 
